@@ -1,0 +1,5 @@
+from pygame import mixer # Load the required library
+
+mixer.init()
+mixer.mdarthvader_circleiscomplete.wavusic.load('/home/pi/SYBSC-Kit/')
+mixer.music.play()
